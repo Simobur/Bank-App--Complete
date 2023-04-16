@@ -1,4 +1,5 @@
 https://banking-by-simobur.netlify.app/
+Users:
 
 login: js
 
@@ -9,13 +10,4 @@ login jd
 
 password 2222
 
-
-login stw
-
-password 3333
-
-
-login ss
-
-password 4444
 
